@@ -168,8 +168,8 @@ def cargar_ingredientes():
     lista_ingredientes.append(Ingrediente("Jamon", 10))
     lista_ingredientes.append(Ingrediente("Queso", 12))
     lista_ingredientes.append(Ingrediente("Aguacate", 15))
-    lista_ingredientes.append(Ingrediente("Huevo", 8))
-    lista_ingredientes.append(Ingrediente("Salchicha", 10))
+    lista_ingredientes.append(Ingrediente("Chorizo", 8))
+    lista_ingredientes.append(Ingrediente("Salsa extra", 10))
 
 
 def cargar_menu():
