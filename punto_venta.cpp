@@ -265,8 +265,8 @@ void cargarIngredientes() {
     listaIngredientes.push_back(Ingrediente("Jamon", 10));
     listaIngredientes.push_back(Ingrediente("Queso", 12));
     listaIngredientes.push_back(Ingrediente("Aguacate", 15));
-    listaIngredientes.push_back(Ingrediente("Huevo", 8));
-    listaIngredientes.push_back(Ingrediente("Salchicha", 10));
+    listaIngredientes.push_back(Ingrediente("Chorizo", 8));
+    listaIngredientes.push_back(Ingrediente("Salsa extra", 10));
 }
 
 void cargarMenu() {
